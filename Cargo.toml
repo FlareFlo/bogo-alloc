@@ -2,6 +2,11 @@
 name = "bogo-alloc"
 version = "0.1.0"
 edition = "2021"
+license-file = "LICENSE"
+authors = ["FlareFlo"]
+repository = "https://github.com/FlareFlo/bogo-alloc"
+description = "An allocator that makes C/C++ developers feel right at home."
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
